@@ -117,3 +117,4 @@ Janela de confirmação exibida ao tentar remover um registro.
 Este projeto está licenciado sob a [MIT License](https://github.com/CarlosLacerda/workshop-javafx-jdbc/blob/main/LICENSE).
 
 🔗 **Repositório deste projeto**: [Workshop-JavaFX-JDBC](https://github.com/CarlosLacerda/Workshop-JavaFX-JDBC.git)
+.
